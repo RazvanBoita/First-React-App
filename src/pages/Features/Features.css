@@ -1,0 +1,28 @@
+.cards-features{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.products{
+    display: flex;
+}
+
+.carousel{
+    width: 100%;    
+    height: 100%;
+}
+
+.total-price{
+    align-self: center;
+    font-size: 30px;
+    color: black;
+    font-weight: 700;
+    display: flex;
+    gap: 5px;
+    letter-spacing: 0.5px;
+}
+
+.effective-price{
+    color: purple;
+}

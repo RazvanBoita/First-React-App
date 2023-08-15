@@ -1,0 +1,6 @@
+.all-cards{
+    display: flex;
+    gap:100px;  
+    align-self: center;
+    margin-top: 20px;
+}

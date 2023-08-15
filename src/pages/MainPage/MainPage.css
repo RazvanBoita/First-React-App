@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.layout{
+    border-radius: 8px;
+    background: #FFFEF6;
+    height: 55rem;
+    width: 112rem;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: 1;
+    align-items: flex-start;
+    gap: 50px;
+}

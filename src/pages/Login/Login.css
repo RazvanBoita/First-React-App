@@ -1,0 +1,188 @@
+.login-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 20px;
+    height: 600px;
+    width: 500px;
+    border-top-left-radius:30px;
+    border-bottom-left-radius:30px;
+    background: linear-gradient(220deg, #f2709c, #ff9472);
+    border-right: 1px solid linear-gradient(220deg, #50C9C3, #96DEDA);
+}
+
+.login-content form{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 20px;
+    align-items: center;
+}
+
+.submitBtn{
+    margin-top: 30px;
+    width: 320px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    background: linear-gradient(220deg, #50C9C3, #96DEDA);
+    color: white;
+    font-weight: 800;
+    font-size: 21px;
+    letter-spacing: 1px;
+    text-decoration: underline;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.submitBtn:hover{
+    background: linear-gradient(220deg, #c21500, #ffc500);
+}
+
+.login-content label{
+    font-size: 24px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    font-weight: 800;
+    color: white;
+}
+
+.forgotpass{
+    margin-top: 10px;
+    margin-left: 3px;
+    color:#7a2828;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    opacity: .7;
+}
+
+.forgotpass:hover{
+    opacity: 1; 
+    color: darkblue;
+    transition: .5s;
+}
+
+
+.labelANDinput{
+    display: flex;
+    flex-direction: column;
+}
+
+.login-content input{
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    border: 0.5px solid salmon;
+    font-size: 24px;
+    color: #50C9C3;
+    font-weight: 700;
+    padding-left: 10px;
+}
+
+.login-content input::placeholder{
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: firebrick;
+    opacity: .3;
+}
+
+.loginoptions{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 19px;
+}
+
+.icons-for-signup{
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+}
+
+.loginoptions p{
+    font-size: 23px;
+    color: white;
+    font-weight: 700;
+    text-decoration: overline 3px wheat;
+    letter-spacing: 1px;
+}
+
+.both-contents{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.register-content{
+    padding: 20px;
+    height: 600px;
+    width: 500px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background: linear-gradient(220deg, #50C9C3, #96DEDA);
+    border-left: 1px solid linear-gradient(220deg, #f2709c, #ff9472);
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    text-align: center;
+    gap: 30px;
+}
+
+.register-title{
+    margin-top: 110px;
+    font-size: 45px;
+    color: white;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-shadow: salmon  10px 2px 7px;
+}
+
+.register-description{
+    font-size: 25px;
+    letter-spacing: 0.3px;
+    line-height: 25px;
+    color: #182848;
+}
+
+.registerBtn{
+    border: 1px dotted grey;
+    background: transparent;
+    border-radius: 20px;
+    padding: 20px;
+    width: 400px;
+    color: darkblue;
+    font-weight: 700;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.registerBtn:hover{
+    background-color: white;
+    transition: .5s;
+    color: #50C9C3;
+}
+
+.goHome{
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.goHome:hover{
+    color: darkblue;
+    transition: .3s;
+}
+
+.whole-login-page{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
