@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/First-React-App/static/css/main.027525e6.css",
-    "main.js": "/First-React-App/static/js/main.1c01be50.js",
+    "main.js": "/First-React-App/static/js/main.3ad4ba1a.js",
     "static/media/diaby.jpg": "/First-React-App/static/media/diaby.2f986bc00c1efcfbb469.jpg",
     "static/media/onana.jpg": "/First-React-App/static/media/onana.5c4b11c188049836ca0a.jpg",
     "static/media/donarumma.webp": "/First-React-App/static/media/donarumma.4af87e9938ea461e5819.webp",
@@ -10,10 +10,10 @@
     "index.html": "/First-React-App/index.html",
     "static/media/forward.svg": "/First-React-App/static/media/forward.1c03df16b20d7a30dd014d9f0f5a0e29.svg",
     "main.027525e6.css.map": "/First-React-App/static/css/main.027525e6.css.map",
-    "main.1c01be50.js.map": "/First-React-App/static/js/main.1c01be50.js.map"
+    "main.3ad4ba1a.js.map": "/First-React-App/static/js/main.3ad4ba1a.js.map"
   },
   "entrypoints": [
     "static/css/main.027525e6.css",
-    "static/js/main.1c01be50.js"
+    "static/js/main.3ad4ba1a.js"
   ]
 }
