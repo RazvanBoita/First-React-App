@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/First-React-App/static/css/main.027525e6.css",
+    "main.js": "/First-React-App/static/js/main.1c01be50.js",
+    "static/media/diaby.jpg": "/First-React-App/static/media/diaby.2f986bc00c1efcfbb469.jpg",
+    "static/media/onana.jpg": "/First-React-App/static/media/onana.5c4b11c188049836ca0a.jpg",
+    "static/media/donarumma.webp": "/First-React-App/static/media/donarumma.4af87e9938ea461e5819.webp",
+    "static/media/soccer.svg": "/First-React-App/static/media/soccer.5c4f8c20b65ce490b048a7d974f8659d.svg",
+    "static/media/location.svg": "/First-React-App/static/media/location.1f3cc0fdfa2644fdf01546cc496135c4.svg",
+    "index.html": "/First-React-App/index.html",
+    "static/media/forward.svg": "/First-React-App/static/media/forward.1c03df16b20d7a30dd014d9f0f5a0e29.svg",
+    "main.027525e6.css.map": "/First-React-App/static/css/main.027525e6.css.map",
+    "main.1c01be50.js.map": "/First-React-App/static/js/main.1c01be50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.027525e6.css",
+    "static/js/main.1c01be50.js"
+  ]
+}
