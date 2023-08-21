@@ -10,14 +10,14 @@ function App() {
   return (
     <>
     <div className="main-component">
-      <Router>
+      <Router basename='/football-app-react'>
           <Routes>
-            <Route path='/' element={<MainPage/>} />
-            <Route path='/discover' element={<Discover/>} />
-            <Route path='/features' element={<Features/>} />
-            <Route path='/how-it-works' element={<Howitworks/>} />
-            <Route path='/login' element={<Login/>} />
-            <Route path='/register' element={<Register/>} />
+              <Route path='/' element={<MainPage/>} />
+              <Route path='/discover' element={<Discover/>} />
+              <Route path='/features' element={<Features/>} />
+              <Route path='/how-it-works' element={<Howitworks/>} />
+              <Route path='/login' element={<Login/>} />
+              <Route path='/register' element={<Register/>} />
           </Routes>
       </Router>
     </div>
