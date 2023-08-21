@@ -1,0 +1,19 @@
+
+
+WHAT CAN YOU DO HERE?
+
+You can search your favorite teams and find out everything that you need to know about them in order to be the best fan!
+We offer you informations about their next matches, their previous results, the current team and its players and staff,
+and, newly, WE offer you exclusive deals for ticket prices! (something here)
+
+
+
+GET EXCLUSIVE DEALS AND CREATE YOUR OWN ACCOUNT:
+
+Create an account or log in to an existing one and check out everything we have prepared for you! As well as notifying you about your favorite club/s,
+we offer you exclusive deals, such as tickets to watch them live, or deals to buy the club's merch! (sign up here)
+
+
+HOW DOES OUR APP WORK?
+
+We interact with the api-football API, provided by rapidapi.com, which can be found here: https://rapidapi.com/api-sports/api/api-football
